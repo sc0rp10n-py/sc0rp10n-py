@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pragyan.
 - 👀 I’m interested in coding and hacking.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on open source projects, research projects related to software development, electronics and communication engineering.
+- 🌱 I’m currently learning Flutter, Django, and some concepts in ML.
+- 💞️ I’m looking to collaborate on open source projects, research projects related to software development, AI, ML, DL and electronics and communication engineering.
 - 📫 You can reach me on [Twitter](https://twitter.com/Sc0rp10n_py).
 
 <!---
