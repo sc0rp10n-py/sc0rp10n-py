@@ -25,11 +25,12 @@ Tools
 
 ---
 
-- 👋 Hi, I’m Pragyan.
-- 👀 I’m interested in coding and hacking.
-- 🌱 I’m currently learning Flutter, Django, and some concepts in ML.
-- 💞️ I’m looking to collaborate on open source projects, research projects related to software development, AI, ML, DL and electronics and communication engineering.
-- 📫 You can reach me on [Twitter](https://twitter.com/Sc0rp10n_py).
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 pragyan52yadav/pragyan52yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
