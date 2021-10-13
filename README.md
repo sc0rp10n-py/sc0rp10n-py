@@ -16,7 +16,9 @@ I am currently learning Flutter, Django and React.
 
 ### Frameworks
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" alt="Django Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" alt="Django Logo" width="50" height="50"/> 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter Logo" width="50" height="50"/>  -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="50" height="50"/> 
 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less Logo" width="50" height="50"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/> -->
