@@ -28,7 +28,7 @@ I am currently learning Flutter, Django and React.
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sc0rp10n-py)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sc0rp10n-py&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
