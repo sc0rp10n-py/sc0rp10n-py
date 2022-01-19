@@ -49,9 +49,9 @@ I am currently learning Flutter and Node.js.
 
 ## &#x1f4c8; My GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sc0rp10n-py&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sc0rp10n-py&repo=github-readme-stats)](https://github.com/sc0rp10n-py/MNIST-with-PyTorch) -->
 
 
 <!---
