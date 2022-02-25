@@ -2,6 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sc0rp10n_py?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuBYLFSNFG9hX__8A54mB1A?style=social)
+[![wakatime](https://wakatime.com/badge/user/f601c687-4342-4511-b5f7-2772d7434d35.svg)](https://wakatime.com/@f601c687-4342-4511-b5f7-2772d7434d35)
 
 I am pursuing Electronics and Communication Engineering. I have great interest in Aerospace and Machine Learning field and am working on some amazing projects in these fields. Also interested and learning Ethical Hacking. 
 I am always up for collaboration in some open source project, research project or software development. Also I am a front-end web developer and freelancer too.
@@ -56,7 +57,7 @@ I am currently learning Flutter and Node.js.
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical&count_private=true&show_icons=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical&layout=compact&langs_count=10&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical&count_private=true&layout=compact&langs_count=10&hide_border=true">
 </p>
 
 
