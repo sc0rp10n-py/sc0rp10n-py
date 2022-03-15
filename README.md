@@ -54,7 +54,7 @@ I am currently learning Flutter and Node.js.
 
 ## &#x1f4c8; My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-pi-brown.vercel.app/api?user=sc0rp10n-py&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="180em" src="http://github-readme-stats-pi-brown.vercel.app/api?user=sc0rp10n-py&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-pi-brown.vercel.app/api?username=sc0rp10n-py&theme=radical&count_private=true&show_icons=true&hide_border=true">
