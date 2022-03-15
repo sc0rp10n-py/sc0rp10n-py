@@ -30,6 +30,7 @@ I am currently learning Flutter and Node.js.
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-MATLAB-red?style=for-the-badge&logo=matlab&logoColor=red">
@@ -53,11 +54,11 @@ I am currently learning Flutter and Node.js.
 
 ## &#x1f4c8; My GitHub Stats
 <p align="center">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sc0rp10n-py&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="180em" src="https://github-readme-stats-pi-brown.vercel.app/api?user=sc0rp10n-py&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc0rp10n-py&theme=radical&count_private=true&show_icons=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical&count_private=true&layout=compact&langs_count=10&hide_border=true">
+  <img height="180em" src="https://github-readme-stats-pi-brown.vercel.app/api?username=sc0rp10n-py&theme=radical&count_private=true&show_icons=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats-pi-brown.vercel.app/api/top-langs/?username=sc0rp10n-py&theme=radical&count_private=true&layout=compact&langs_count=10&hide_border=true">
 </p>
 
 
