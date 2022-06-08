@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pragyan aka sc0rp10n.py!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I am Pragyan aka sc0rp10n.py!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sc0rp10n_py?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuBYLFSNFG9hX__8A54mB1A?style=social)
