@@ -5,8 +5,8 @@
 [![wakatime](https://wakatime.com/badge/user/f601c687-4342-4511-b5f7-2772d7434d35.svg)](https://wakatime.com/@f601c687-4342-4511-b5f7-2772d7434d35)
 
 I am pursuing Electronics and Communication Engineering. I have great interest in Aerospace and Machine Learning field and am working on some amazing projects in these fields. Also interested and learning Ethical Hacking. 
-I am always up for collaboration in some open source project, research project or software development. Also I am a front-end web developer and freelancer too.
-I am currently learning Flutter and Node.js.
+I am always up for collaboration in some open source project, research project or software development. Also I am a full stack web developer and freelancer too.
+I am currently learning Flutter and working on some amazing ideas.
 
 ---
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
